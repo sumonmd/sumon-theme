@@ -1,0 +1,28 @@
+@media screen and (max-width:767px){
+	.service .service-text{
+		margin-bottom:30px;
+		text-align: center;
+	}
+	.gallery img{
+		margin-bottom:20px;
+	}
+	.what-do .do-img{
+		margin-top:30px;
+	}
+	.pricing .card{
+		width:75%; 
+		margin:20px auto;
+	}
+	.blog-content .card{
+		width:75%; 
+		margin:20px auto;
+	}
+	.contact-content .contact-left{
+		margin-bottom:20px;
+	}
+}
+@media screen and (max-width:575px){
+	.newsletter input{
+		margin-bottom:10px;
+	}
+}
